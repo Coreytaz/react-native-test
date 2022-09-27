@@ -13,7 +13,7 @@ export default function App() {
   return (
     <View>
       <Post />
-      <Text>1122</Text>
+      <Text>123</Text>
     </View>
   );
 }
